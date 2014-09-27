@@ -3,6 +3,7 @@ package com.woorea.openstack.swift.model;
 import java.io.InputStream;
 import java.util.HashMap;
 import java.util.Map;
+
 /**
  * This class is to store collected information.  
  * @author Mona.

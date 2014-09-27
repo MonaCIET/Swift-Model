@@ -50,5 +50,4 @@ public class ObjectDownload {
 	public void setInputStream(InputStream inputStream) {
 		this.inputStream = inputStream;
 	}
-
 }

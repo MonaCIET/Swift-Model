@@ -125,5 +125,4 @@ public class Object implements Serializable {
 	public void setLastModified(Calendar lastModified) {
 		this.lastModified = lastModified;
 	}
-	
 }
